@@ -95,7 +95,7 @@
     "minimist": "^1.2.0",
     "n3": "^1.6.3",
     "rdf-parse": "^4.0.0",
-    "rdf-store-stream": "^2.0.0",
+    "rdf-store-stream": "^3.0.0",
     "rdf-test-suite": "^1.25.0",
     "tcp-port-used": "^1.0.1",
     "winston": "^3.2.1"
